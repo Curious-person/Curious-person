@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://miro.medium.com/v2/resize:fit:828/1*f5dwUHljn3qabo6zvPoncQ.gif)
+<img align="center" alt="Hello World" width="1000" src="https://i.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.webp">
 <h1 align="center">Hi 👋, I'm John Kevin Abgao</h1>
 <h3 align="center">A Filipino-based IT developer in the making.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47txz60t6fkkugjcwph3azu36j172u19nqjurvmv4o&rid=giphy.gif&ct=g">
