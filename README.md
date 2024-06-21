@@ -3,7 +3,7 @@
 <h3 align="center">A Filipino-based IT developer in the making.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47txz60t6fkkugjcwph3azu36j172u19nqjurvmv4o&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **Object-Oriented Programming**
+- 🌱 I’m currently learning **HTML and SQL database system**
 
 - 📫 How to reach me **abgaojd@students.national-u.edu.ph**
 
